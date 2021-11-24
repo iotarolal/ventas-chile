@@ -5,3 +5,17 @@ body {
 #destacados img {
     height: 161px; 
 }
+
+#color-fondo  {
+    background-color: black;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    text-align:justify;
+}
