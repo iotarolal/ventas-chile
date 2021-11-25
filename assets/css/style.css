@@ -25,6 +25,9 @@ p{
     text-align:justify;
 }
 
-.color-beich {
-    background-color:rgb(245, 220, 239);
+.color-negro {
+    background-color:black;
+}
+.color-fondo-sec {
+    background-color:cornflowerblue
 }
