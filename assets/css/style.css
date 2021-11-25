@@ -8,7 +8,6 @@ body {
 
 #color-fondo  {
     background-color: black;
-    
 }
 
 h1{
@@ -24,4 +23,8 @@ h2{
 
 p{
     text-align:justify;
+}
+
+.color-beich {
+    background-color:rgb(245, 220, 239);
 }
